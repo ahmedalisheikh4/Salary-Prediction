@@ -67,6 +67,6 @@ Each model was evaluated to determine its effectiveness in predicting salaries b
 ## 📬 Group Members
 
 For questions or feedback, feel free to reach out:
-- Shayan Haider
-- Ahmed Ali
-- Asad Noor
+- Shayan Haider 21K-3211
+- Ahmed Ali     21K-3212
+- Asad Noor     21K-4678

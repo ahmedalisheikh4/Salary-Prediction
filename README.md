@@ -20,7 +20,6 @@ This dataset provides a rich set of features allowing analysis and prediction of
 
 | Column               | Description                                      |
 |----------------------|--------------------------------------------------|
-| Unnamed: 0           | Index                                            |
 | Age                  | Age of the employee                              |
 | Education Level      | Education level of the employee                  |
 | Job Title            | Job title of the employee                        |

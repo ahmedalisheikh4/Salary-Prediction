@@ -21,6 +21,7 @@ This dataset provides a rich set of features allowing analysis and prediction of
 | Column               | Description                                      |
 |----------------------|--------------------------------------------------|
 | Age                  | Age of the employee                              |
+| Gender               | Gender of the employee                           |
 | Education Level      | Education level of the employee                  |
 | Job Title            | Job title of the employee                        |
 | Years of Experience  | Years of experience of the employee              |
